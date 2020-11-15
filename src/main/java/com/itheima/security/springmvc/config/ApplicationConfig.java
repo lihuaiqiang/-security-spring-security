@@ -9,6 +9,9 @@ import org.springframework.stereotype.Controller;
  * @author lihuaiqiang
  * @description
  * @date 2020/11/10 11:10
+ *
+ * Spring容器配置
+ * 这个类相当于application-context.xml
  */
 @Configuration
 @ComponentScan(basePackages = "com.itheima.security.springmvc",
